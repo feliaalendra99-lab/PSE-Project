@@ -7,7 +7,8 @@ Environmental awareness alone cannot easily translate into real low-carbon behav
 Furthermore, most campuses do not provide a dedicated digital platform for students to record, calculate, and reflect on their carbon emissions. Campus sustainability teams also lack structured data to understand student behavior and improve campus-wide environmental initiatives.
 To fill this gap, our project proposes a campus-focused application called Campus Climate Action.
 Project Purpose
-This project aims to design and develop a lightweight software prototype that helps students track their daily carbon footprint, participate in low-carbon activities, and build sustainable habits. At the same time, the project allows team members to practice professional software engineering skills using the Agile Scrum methodology in a real-world development process.
+This project aims to design and develop a lightweight software prototype that helps students track their daily carbon footprint, participate in low-carbon activities, and build sustainable habits. At the same time, the project allows team members to practice professional 
+software engineering skills using the Agile Scrum methodology in a real-world development process.
 Project Scope
 This is a 4 week prototype development project that includes requirement analysis, system design, interactive prototype development, functional testing, and project reporting. The project does not include full server deployment, large-scale user release, or long-term maintenance.
 The focus is on demonstrating how software engineering can support SDG 13 Climate Action at the university level.
@@ -64,7 +65,8 @@ Testing & Evaluation Lead
 
 Project Methodology
 Agile Software Development
-The project uses the Agile development approach, which supports iterative, flexible, and user-centered development. Compared with the Waterfall model, Agile allows the team to adjust functions, respond to feedback, and improve the system continuously during development.
+The project uses the Agile development approach, which supports iterative, flexible, and user-centered development. Compared with the Waterfall model, 
+Agile allows the team to adjust functions, respond to feedback, and improve the system continuously during development.
 This is highly suitable for a short‑term student project with evolving requirements.
 Scrum Framework
 The team uses Scrum to structure the development process:
