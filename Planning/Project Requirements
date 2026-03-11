@@ -1,0 +1,50 @@
+Project Overview
+This project aims to develop an agile software solution that supports Climate Action (SDG 13). The system is designed to help users track environmental activities and promote sustainable practices. The platform will allow users to monitor actions such as carbon reduction activities and eco-friendly habits.
+
+Project Objectives
+- To develop a digital platform that encourages sustainable environmental practices.
+- To provide users with tools to track their eco-friendly activities.
+
+Stakeholders
+- Students
+- Campus Facilities Managers
+- University Environmental Clubs
+- University Sustainability Office
+- Course Instructors
+- Project Development Team
+
+Functional Requirements
+- The system will enable the users to register with their student/staff ID and come up with a password.
+- The system will permit users to log in with valid credentials.
+- The system will enable users to document their daily activities within the campus e.g. commuting, eating and printing.
+- The system will be able to calculate the carbon emissions through activities recorded by the system.
+- The system will offer a personalized dashboard that contains carbon footprint information.
+- The system will be used to provide and present custom low-carbon recommendations.
+- The system will permit users to make daily check-ins on low-carbon activities.
+- The system will grant such points and badges to completed low-carbon activities.
+- The system shall allow users to redeem rewards using accumulated points.
+- The system shall provide a campus-level dashboard for aggregated carbon data.
+- The system shall generate visual carbon footprint reports.
+- The system shall allow sustainability clubs to manage climate education content.
+- The system shall allow administrators to create low-carbon challenges.
+- The system will be used to manage sustainability-related events.
+- The system will enable users to create and join a team.
+- The system will have a social feed that shows low-carbon activities.
+- The system will give its users the opportunity to provide evidence about its low-carbon measures.
+- The system will enable the sustainability clubs to test evidence posted.
+
+Non-Functional Requirements
+- System should not take more than 2 seconds to respond to user actions.
+- System should have a user friendly interface which needs less training.
+- System should be accessible at 99% of the time when needed during the academic time.
+- System must safeguard user data and deny unauthorized access to the data.
+- System should support a user pool of up to 10,000 simultaneous users.
+- System designed to be maintained easily and updated easily.
+- System should be compatible with mobile devices and desktop computers.
+
+Tools & Technologies
+- Version Control: Github
+- Project Management: Trello
+- Design tools: Figma
+
+
