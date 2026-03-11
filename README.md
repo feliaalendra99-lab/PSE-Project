@@ -9,8 +9,7 @@ This app aim for create a lightweight mobile prototype tool adapted to college s
 ## Team member
 - Gao Simeng - SDG & Planning Leader
 - Yao Longjun - System Analyst/ UML Designer
-- Felia Alendra - Prototype & UI designer 
-- Maryssa Eymelda Binti Samsol - Agile & Tool manager
+- Felia Alendra - Prototype & UI designer, Agile & Tool Manager
 - Hong Seohee - Testing & evaluation lead
 
 ## Project Description
