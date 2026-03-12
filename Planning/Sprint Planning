@@ -1,1 +1,59 @@
-Sprint 1
+<h3>Sprint 1 - Week 2: Design & Early Prototype <h3>
+Sprint Goal: Complete requirements analysis, UML modeling (Use Case/Class Diagrams), UI sketching, develop the P1 core feature prototype, and create a test plan. 
+Draw product use case diagrams & class diagrams  
+
+Timeline: 7 days (including 1 day for Review + 1 day for Retrospective) 
+
+Sprint Backlog:
+1. Make a UI for sign in and login page, student and sustainability club members 
+2. Make dashboard for student including view announcement, viewpoints calculated, and view calculated CO2 footprint 
+3. Add function to enable students to check their points and rewards they can redeem. 
+
+Create function for challenges, for club members and campus admin upload the challenges details, also for students to join and submit evidence of following a certain 
+challenge, so that campus admin can check and verify.  
+
+Create function to post announcements for campus admin and club members 
+
+ 
+
+Sprint 2 - Week 3: Development & Testing 
+
+Sprint Goal: Complete P1 feature development, implement key P2 features, optimize prototype interactions, conduct the first round of functional testing & bug fixes, and update the Burndown Chart. 
+
+Timeline: 7 days (including 1 day for Review + 1 day for Retrospective) 
+
+Sprint Backlog 
+
+Complete the full interactive development of P1 function (buttons, calculate carbon emissions, generate reports) 
+
+Develop P1 personalized low-carbon suggestions and basic punching functions. 
+
+Optimize the UI sketch and complete the prototype visualization upgrade. 
+
+Perform the first round of functional testing, record the bug, and complete the repair. 
+
+Update the product Burndown Chart and track the progress of task completion. 
+
+Sprint 2 review (all members, 25th Feb): review interactive prototypes and test reports and collect feedback from classmates/instructors. 
+
+Sprint 2 review (all members, 25th Feb): Summarize the problems in development and testing and determine the final optimization direction of the prototype. 
+
+ 
+
+Final Sprint - Week 4: Finalization & Presentation 
+
+Core Goal: Complete final prototype optimizations, compile all project deliverables, create the presentation deck, finalize the report, and organize rehearsals and submissions. 
+
+Key Responsibilities: 
+
+The organization team completes the final bug repair and function optimization of the prototype according to the feedback of Sprint 2. 
+
+Organize all Agile workpieces (Product Backlog, Sprint Backlogs, Burndown Chart, Trello snapshot). 
+
+Coordinate the production of display PPT, design "sales-style" display logic, and assign personal explanation modules. 
+
+Organize the team to conduct multiple rounds of presentation rehearsals to optimize the rhythm and content of the explanation. 
+
+Complete the writing of Part 3 (Project Introduction) of the report, and the coordination team completes the compilation of the whole report. 
+
+Organize all the evidence of GitHub/Trello to ensure that the deliverables are complete and submitted as required. 
