@@ -1,6 +1,6 @@
 # PSE Project
 Taylor's University - ITS64604/ITS610204 Group Project <br>
-Collaboration for SDG 3 app development project for Principles of Software Development 
+Principles Of Software Engineering
 
 # Campus Calimate Action - Climate Action (SDG 13)
 
